@@ -16,6 +16,7 @@ git checkout clean_up : passer à une autre branche
 git rm filename.extension : supprimer
 git merge clean_up : transférer/fusionner les modifications de clean_up vers/avec master ?
 git branch -d clean_up : supprimer la branche clean_up
+git remote -v : connaitre l'adresse gitHub utilisée
 
 git checkout -b ll : passer à une autre branche ll (sans la créer?) 
 
