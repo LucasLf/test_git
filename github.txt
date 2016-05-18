@@ -17,6 +17,14 @@ git rm filename.extension : supprimer
 git merge clean_up : transférer/fusionner les modifications de clean_up vers/avec master ?
 git branch -d clean_up : supprimer la branche clean_up
 git remote -v : connaitre l'adresse gitHub utilisée
+git branch -v : connaitre toutes les branches
+git branch -d nomdelabranche : supprimer la branche
+git reset HEAD ~numberofcommitsbefore : revenir à un commit antérieur (en local)
+-- soft staging et directory non modifié --mixed par défault juste staging --hard everything
+git checkout HEAD~numberofcommitsbefore : permettre de se placer à un autre commit
+git revert HEAD ~numberofcommitsbefore : dupliquer le commit antérieur et le mettre en premier
+
+
 
 git checkout -b ll : passer à une autre branche ll (sans la créer?) 
 
