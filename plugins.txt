@@ -1,0 +1,35 @@
+WP Engine :
+Zapier Feeds : RSS
+PIP settings : invoice print
+CSV Customer Import Suite : Import CSV files containing customers, orders or coupons
+Embed videos settings : choose video options for Youtube videos
+Product Importer : Import CSV files containing products and settings with lots of options
+Store Exporter : Same but for the export
+P3 Plugin Profiler : Performance scan of the website
+Mass Edit Terms : Edit tags and category fastly (doesnt't seem great)
+Manage Terms : Manage terms fastly (same editor as the previous one)
+Auto Terms : ?
+Redirection : redirect some pages
+Regenerate thumbnails : ?
+Zendesk : service clients
+User role Editor : manage the rôle ?
+WordPress Social Login : allow to login with FB
+Mandrill : MailChimp add-on
+BJ Lazy Load Options : ?
+Simple tags : manage the tags ?
+ACF : custom fields
+
+ 
+
+
+Page produit : translation
+ACF : pourquoi aucun champs dans le plugin
+Product Press : goal ?
+Material : SEO title only in dutch ?
+Category : google merchant category | where are they in the page
+Plugin CH gk : goal
+myaccount page : problem image
+manage a store currently : wordpress admin but working on something else
+wp-admin on my localhost
+account
+
