@@ -41,3 +41,5 @@ git revert HEAD ~numberofcommitsbefore : dupliquer le commit antérieur et le met
 
 
 git checkout -b ll : passer à une autre branche ll en la créant
+
+MODIF
