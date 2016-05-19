@@ -1,33 +1,43 @@
 git init : initialiser git
 git status : connaitre le statut de git, des fichiers
+
 git add filename.extension : tracker ce fichier
+
 git add '*.extension' : tracker tous les fichiers avec cette extension
+
 git commit -m "Description" : ajouter cette nouvelle version et la décrire (voir comment l'écrire avec slack)
+
 git log : voir tous les commit (toutes les modif')
+
 git remote add origin url : ajouter mon dossier git sur un répertoire github
+
 git push -u origin master : ajouter les fichiers -u pour enregistrer le lieu pour le prochain push origin
+
 git pull origin master : récupérer les modifications du répertoire
 git diff HEAD : connaître les modifications entre la dernière version et celle précèdente
+
 git diff --staged : 
 git reset filename.extension : unstage le fichier ?
 git checkout -- filename.extension : revenir au moment de la dernière soumission (commit)
+
 git branch clean_up : créer une branche (un répertoire de travail)
 git checkout clean_up : passer à une autre branche
 git rm filename.extension : supprimer
+
 git merge clean_up : transférer/fusionner les modifications de clean_up vers/avec master ?
 git branch -d clean_up : supprimer la branche clean_up
 git remote -v : connaitre l'adresse gitHub utilisée
+
 git branch -v : connaitre toutes les branches
 git branch -d nomdelabranche : supprimer la branche
 git reset HEAD ~numberofcommitsbefore : revenir à un commit antérieur (en local)
 -- soft staging et directory non modifié --mixed par défault juste staging --hard everything
+
 git checkout HEAD~numberofcommitsbefore : permettre de se placer à un autre commit
+
 git revert HEAD ~numberofcommitsbefore : dupliquer le commit antérieur et le mettre en premier
 
 
 
-git checkout -b ll : passer à une autre branche ll (sans la créer?) 
 
-
-
-
+git checkout -b ll : passer à une autre branche ll en la créant
